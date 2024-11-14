@@ -9,7 +9,9 @@
 **Mentor:** N. Santosh
 
 ### Project: ONLINE BANKING SYSTEM
-!
+![Screenshot 2024-11-14 210201.png](Screenshot%202024-11-14%20210201.png)
+![Screenshot 2024-11-14 210225.png](Screenshot%202024-11-14%20210225.png)
+![Screenshot 2024-11-14 210418.png](Screenshot%202024-11-14%20210418.png)
 ### Objective
 The objective of this project is to make a banking system in online mode for easy access of user. 
 ### Technologies Used
